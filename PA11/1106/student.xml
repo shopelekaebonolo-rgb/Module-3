@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+
+<student>
+<name> Thabo </name>
+<course> Python</course>
+<age> 23 </age>
+</student>
+
+<student>
+<name> Lee </name>
+<course> Javascript </course>
+<age> 30 </age>
+</student>
+
+<student>
+<name> Kabelo</name>
+<course> C# </course>
+<age> 45 </age>
+</student>
+</students>
